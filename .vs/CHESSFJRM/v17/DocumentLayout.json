@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kisko\\source\\repos\\CHESSFJRM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC71678-A323-41FD-9F3E-449819E5F8E4}|ChessLOGIC\\ChessLOGIC.csproj|c:\\users\\kisko\\source\\repos\\chessfjrm\\chesslogic\\moves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC71678-A323-41FD-9F3E-449819E5F8E4}|ChessLOGIC\\ChessLOGIC.csproj|solutionrelative:chesslogic\\moves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC71678-A323-41FD-9F3E-449819E5F8E4}|ChessLOGIC\\ChessLOGIC.csproj|c:\\users\\kisko\\source\\repos\\chessfjrm\\chesslogic\\moves\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC71678-A323-41FD-9F3E-449819E5F8E4}|ChessLOGIC\\ChessLOGIC.csproj|solutionrelative:chesslogic\\moves\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC71678-A323-41FD-9F3E-449819E5F8E4}|ChessLOGIC\\ChessLOGIC.csproj|c:\\users\\kisko\\source\\repos\\chessfjrm\\chesslogic\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC71678-A323-41FD-9F3E-449819E5F8E4}|ChessLOGIC\\ChessLOGIC.csproj|solutionrelative:chesslogic\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC71678-A323-41FD-9F3E-449819E5F8E4}|ChessLOGIC\\ChessLOGIC.csproj|c:\\users\\kisko\\source\\repos\\chessfjrm\\chesslogic\\pieces\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC71678-A323-41FD-9F3E-449819E5F8E4}|ChessLOGIC\\ChessLOGIC.csproj|solutionrelative:chesslogic\\pieces\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC71678-A323-41FD-9F3E-449819E5F8E4}|ChessLOGIC\\ChessLOGIC.csproj|c:\\users\\kisko\\source\\repos\\chessfjrm\\chesslogic\\pieces\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC71678-A323-41FD-9F3E-449819E5F8E4}|ChessLOGIC\\ChessLOGIC.csproj|solutionrelative:chesslogic\\pieces\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC71678-A323-41FD-9F3E-449819E5F8E4}|ChessLOGIC\\ChessLOGIC.csproj|c:\\users\\kisko\\source\\repos\\chessfjrm\\chesslogic\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC71678-A323-41FD-9F3E-449819E5F8E4}|ChessLOGIC\\ChessLOGIC.csproj|solutionrelative:chesslogic\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC71678-A323-41FD-9F3E-449819E5F8E4}|ChessLOGIC\\ChessLOGIC.csproj|c:\\users\\kisko\\source\\repos\\chessfjrm\\chesslogic\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC71678-A323-41FD-9F3E-449819E5F8E4}|ChessLOGIC\\ChessLOGIC.csproj|solutionrelative:chesslogic\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC71678-A323-41FD-9F3E-449819E5F8E4}|ChessLOGIC\\ChessLOGIC.csproj|c:\\users\\kisko\\source\\repos\\chessfjrm\\chesslogic\\typepiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC71678-A323-41FD-9F3E-449819E5F8E4}|ChessLOGIC\\ChessLOGIC.csproj|solutionrelative:chesslogic\\typepiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC71678-A323-41FD-9F3E-449819E5F8E4}|ChessLOGIC\\ChessLOGIC.csproj|c:\\users\\kisko\\source\\repos\\chessfjrm\\chesslogic\\moves\\normal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC71678-A323-41FD-9F3E-449819E5F8E4}|ChessLOGIC\\ChessLOGIC.csproj|solutionrelative:chesslogic\\moves\\normal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52D28E0-57E2-48B4-A218-E5E0E408CB67}|ChessINTERFACE\\ChessINTERFACE.csproj|c:\\users\\kisko\\source\\repos\\chessfjrm\\chessinterface\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52D28E0-57E2-48B4-A218-E5E0E408CB67}|ChessINTERFACE\\ChessINTERFACE.csproj|solutionrelative:chessinterface\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC71678-A323-41FD-9F3E-449819E5F8E4}|ChessLOGIC\\ChessLOGIC.csproj|c:\\users\\kisko\\source\\repos\\chessfjrm\\chesslogic\\pieces\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC71678-A323-41FD-9F3E-449819E5F8E4}|ChessLOGIC\\ChessLOGIC.csproj|solutionrelative:chesslogic\\pieces\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52D28E0-57E2-48B4-A218-E5E0E408CB67}|ChessINTERFACE\\ChessINTERFACE.csproj|c:\\users\\kisko\\source\\repos\\chessfjrm\\chessinterface\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C52D28E0-57E2-48B4-A218-E5E0E408CB67}|ChessINTERFACE\\ChessINTERFACE.csproj|solutionrelative:chessinterface\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC71678-A323-41FD-9F3E-449819E5F8E4}|ChessLOGIC\\ChessLOGIC.csproj|c:\\users\\kisko\\source\\repos\\chessfjrm\\chesslogic\\pieces\\king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC71678-A323-41FD-9F3E-449819E5F8E4}|ChessLOGIC\\ChessLOGIC.csproj|solutionrelative:chesslogic\\pieces\\king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "C:\\Users\\kisko\\source\\repos\\CHESSFJRM\\ChessLOGIC\\Direction.cs",
+              "RelativeDocumentMoniker": "ChessLOGIC\\Direction.cs",
+              "ToolTip": "C:\\Users\\kisko\\source\\repos\\CHESSFJRM\\ChessLOGIC\\Direction.cs",
+              "RelativeToolTip": "ChessLOGIC\\Direction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T23:21:16.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\kisko\\source\\repos\\CHESSFJRM\\ChessLOGIC\\Game.cs",
+              "RelativeDocumentMoniker": "ChessLOGIC\\Game.cs",
+              "ToolTip": "C:\\Users\\kisko\\source\\repos\\CHESSFJRM\\ChessLOGIC\\Game.cs",
+              "RelativeToolTip": "ChessLOGIC\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T00:39:06.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "King.cs",
+              "DocumentMoniker": "C:\\Users\\kisko\\source\\repos\\CHESSFJRM\\ChessLOGIC\\Pieces\\King.cs",
+              "RelativeDocumentMoniker": "ChessLOGIC\\Pieces\\King.cs",
+              "ToolTip": "C:\\Users\\kisko\\source\\repos\\CHESSFJRM\\ChessLOGIC\\Pieces\\King.cs",
+              "RelativeToolTip": "ChessLOGIC\\Pieces\\King.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwDYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T00:36:05.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pawn.cs",
+              "DocumentMoniker": "C:\\Users\\kisko\\source\\repos\\CHESSFJRM\\ChessLOGIC\\Pieces\\Pawn.cs",
+              "RelativeDocumentMoniker": "ChessLOGIC\\Pieces\\Pawn.cs",
+              "ToolTip": "C:\\Users\\kisko\\source\\repos\\CHESSFJRM\\ChessLOGIC\\Pieces\\Pawn.cs",
+              "RelativeToolTip": "ChessLOGIC\\Pieces\\Pawn.cs",
+              "ViewState": "AQIAADAAAABAMzMzMzM1wEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T00:31:15.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TypePiece.cs",
+              "DocumentMoniker": "C:\\Users\\kisko\\source\\repos\\CHESSFJRM\\ChessLOGIC\\TypePiece.cs",
+              "RelativeDocumentMoniker": "ChessLOGIC\\TypePiece.cs",
+              "ToolTip": "C:\\Users\\kisko\\source\\repos\\CHESSFJRM\\ChessLOGIC\\TypePiece.cs",
+              "RelativeToolTip": "ChessLOGIC\\TypePiece.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T01:10:52.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "C:\\Users\\kisko\\source\\repos\\CHESSFJRM\\ChessLOGIC\\Pieces\\Knight.cs",
+              "RelativeDocumentMoniker": "ChessLOGIC\\Pieces\\Knight.cs",
+              "ToolTip": "C:\\Users\\kisko\\source\\repos\\CHESSFJRM\\ChessLOGIC\\Pieces\\Knight.cs",
+              "RelativeToolTip": "ChessLOGIC\\Pieces\\Knight.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBcAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T00:34:35.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kisko\\source\\repos\\CHESSFJRM\\ChessINTERFACE\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ChessINTERFACE\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kisko\\source\\repos\\CHESSFJRM\\ChessINTERFACE\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ChessINTERFACE\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwCEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T00:41:06.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\kisko\\source\\repos\\CHESSFJRM\\ChessLOGIC\\Board.cs",
+              "RelativeDocumentMoniker": "ChessLOGIC\\Board.cs",
+              "ToolTip": "C:\\Users\\kisko\\source\\repos\\CHESSFJRM\\ChessLOGIC\\Board.cs",
+              "RelativeToolTip": "ChessLOGIC\\Board.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwD8AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T00:42:32.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Piece.cs",
+              "DocumentMoniker": "C:\\Users\\kisko\\source\\repos\\CHESSFJRM\\ChessLOGIC\\Pieces\\Piece.cs",
+              "RelativeDocumentMoniker": "ChessLOGIC\\Pieces\\Piece.cs",
+              "ToolTip": "C:\\Users\\kisko\\source\\repos\\CHESSFJRM\\ChessLOGIC\\Pieces\\Piece.cs",
+              "RelativeToolTip": "ChessLOGIC\\Pieces\\Piece.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T00:26:10.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Moves.cs",
+              "DocumentMoniker": "C:\\Users\\kisko\\source\\repos\\CHESSFJRM\\ChessLOGIC\\Moves.cs",
+              "RelativeDocumentMoniker": "ChessLOGIC\\Moves.cs",
+              "ToolTip": "C:\\Users\\kisko\\source\\repos\\CHESSFJRM\\ChessLOGIC\\Moves.cs",
+              "RelativeToolTip": "ChessLOGIC\\Moves.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T00:22:35.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Move.cs",
+              "DocumentMoniker": "C:\\Users\\kisko\\source\\repos\\CHESSFJRM\\ChessLOGIC\\Moves\\Move.cs",
+              "RelativeDocumentMoniker": "ChessLOGIC\\Moves\\Move.cs",
+              "ToolTip": "C:\\Users\\kisko\\source\\repos\\CHESSFJRM\\ChessLOGIC\\Moves\\Move.cs",
+              "RelativeToolTip": "ChessLOGIC\\Moves\\Move.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T00:21:53.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Normal.cs",
+              "DocumentMoniker": "C:\\Users\\kisko\\source\\repos\\CHESSFJRM\\ChessLOGIC\\Moves\\Normal.cs",
+              "RelativeDocumentMoniker": "ChessLOGIC\\Moves\\Normal.cs",
+              "ToolTip": "C:\\Users\\kisko\\source\\repos\\CHESSFJRM\\ChessLOGIC\\Moves\\Normal.cs",
+              "RelativeToolTip": "ChessLOGIC\\Moves\\Normal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T16:31:32.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kisko\\source\\repos\\CHESSFJRM\\ChessINTERFACE\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ChessINTERFACE\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\kisko\\source\\repos\\CHESSFJRM\\ChessINTERFACE\\MainWindow.xaml",
+              "RelativeToolTip": "ChessINTERFACE\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-20T23:27:46.371Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

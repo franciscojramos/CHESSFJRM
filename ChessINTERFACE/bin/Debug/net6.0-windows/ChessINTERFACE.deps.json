@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ChessINTERFACE/1.0.0": {
+        "dependencies": {
+          "ChessLOGIC": "1.0.0"
+        },
+        "runtime": {
+          "ChessINTERFACE.dll": {}
+        }
+      },
+      "ChessLOGIC/1.0.0": {
+        "runtime": {
+          "ChessLOGIC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChessINTERFACE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ChessLOGIC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
